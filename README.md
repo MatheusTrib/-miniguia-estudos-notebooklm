@@ -81,6 +81,7 @@ flowchart TD
   D --> E[Criação de Glossário]
   E --> F[Consolidação do Miniguia]
   F --> G[Documentação no GitHub]
+````
 
 🧩 Etapas do Projeto
 
