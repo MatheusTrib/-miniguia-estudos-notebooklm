@@ -83,8 +83,8 @@ D --> E[Criação de Glossário]
 E --> F[Consolidação do Miniguia]
 F --> G[Documentação no GitHub]
 
-----------------
 🧩 Etapas do Projeto
+----
 
 1. Curadoria de Fontes
 Após a definição do tema, foi utilizada a funcionalidade Pesquisa Aprofundada do ChatGPT para realizar uma curadoria inicial de materiais confiáveis sobre o tema.
