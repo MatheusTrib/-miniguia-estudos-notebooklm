@@ -197,6 +197,7 @@ utilizar o fluxo como modelo de estudo com IA.
 ├── miniguia.md
 ├── Retorno Dra. Sonia.md
 └── materiais/
+
 🔗 Links do Projeto
 Notebook utilizado no processo:
 
