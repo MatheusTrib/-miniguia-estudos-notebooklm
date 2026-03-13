@@ -75,13 +75,12 @@ O processo seguido neste projeto pode ser representado pelo fluxo abaixo:
 
 ```mermaid
 flowchart TD
-
-  A[Escolha do Tema] --> B[Curadoria de Fontes com ChatGPT]
-  B --> C[Importação das Fontes no NotebookLM]
-  C --> D[Resumo Estruturado do Tema]
-  D --> E[Criação de Glossário]
-  E --> F[Consolidação do Miniguia]
-  F --> G[Documentação no GitHub]
+A[Escolha do Tema] --> B[Curadoria de Fontes com ChatGPT]
+B --> C[Importação das Fontes no NotebookLM]
+C --> D[Resumo Estruturado do Tema]
+D --> E[Criação de Glossário]
+E --> F[Consolidação do Miniguia]
+F --> G[Documentação no GitHub]
 
 🧩 Etapas do Projeto
 
