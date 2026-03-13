@@ -83,7 +83,7 @@ D --> E[Criação de Glossário]
 E --> F[Consolidação do Miniguia]
 F --> G[Documentação no GitHub]
 
-
+----------------
 🧩 Etapas do Projeto
 
 1. Curadoria de Fontes
